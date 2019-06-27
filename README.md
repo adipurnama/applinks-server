@@ -13,9 +13,9 @@ Do the following :
 
 ## How to
 
-1. Change the content of well-known directory
+1. Change the content of `static/well-known` directory
    * apple-app-site-association for iOS
    * assetlinks for Android
-2. ```go run main.go```
+2. run ```go run main.go```
 
  by default, the server runs on port 4000
